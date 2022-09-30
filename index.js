@@ -24,7 +24,5 @@ sigIn.addEventListener("click",(e)=>{
     // if(password!="12345678") isMatch=false
 
     // console.log(isMatch)
-    if(isMatch){
-        location.replace("home.html")
-    }
+    
 })

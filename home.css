@@ -58,6 +58,11 @@ nav .logo {
   border-radius: 20px;
 }
 
+#logOut a {
+  text-decoration: none;
+  color: #000;
+}
+
 .search-wraper {
   display: flex;
   padding: 20px 24px;
